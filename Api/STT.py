@@ -13,7 +13,7 @@ import os
     #region Args_Class
 class ClovaSpeechClient:
     # Clova Speech invoke URL
-    invoke_url = 'https://clovaspeech-gw.ncloud.com/external/v1/6483/3b3bf55bf470f4d6b5a1ac5b7a17cceba5587e65dee1e87f4ae65d1dadcf3df7'
+    invoke_url = ''
     # Clova Speech secret key
     secret = ''
 
